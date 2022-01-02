@@ -10,15 +10,15 @@ O prototipo KYC-chain elimina as verificações KYC redundantes executadas desne
 
 Atualmente o projeto foi testado em uma rede de teste local na qual foi hospedado em alguns laptops pessoais. Portanto, existem algumas limitações em relação à escalabilidade, como o número máximo de bancos que podem ser registrados, que atualmente é limitado a 10. No futuro, planejamos implantar esse registro na rede Ethereum para aumentar sua escalabilidade.
 
-# Project description
+# PDescrição do projeto
 
-Know your customer (KYC) checks are currently an extremely time consuming and costly affair. Bussiness have to spend millions of dollars every year to keep up with KYC regulations or risk being fined heavily. Through KYC chain we aim to simplify this process to a great extent.
+Os cheques Know your customer (KYC) são atualmente um processo extremamente demorado e caro. As empresas têm de gastar milhões de dólares todos os anos para cumprir os regulamentos KYC ou corre o risco de ser multado pesadamente. Através da rede KYC pretendemos simplificar em grande medida este processo.
 
-KYC-chain eliminates the redundant KYC checks that banks currently perform by maintaining a common secure database in a block-chain. The nature of a block-chain ensures that unauthorized changes to the data are automatically invalidated. The proof-of-reputation concept makes the verification process more robust.
+A cadeia KYC elimina as verificações KYC redundantes que os bancos realizam atualmente, mantendo um banco de dados seguro comum em uma cadeia de blocos. A natureza de uma cadeia de bloqueio garante que alterações não autorizadas nos dados sejam invalidadas automaticamente. O conceito de prova de reputação torna o processo de verificação mais robusto.
 
-Currently we have built this registry over a local test-net that we hosted our personal laptops. So, there are a few limitations regarding scalability such as the maximum number of banks that can be registered which is currently capped at 10 and so on. Going ahead we plan to deploy this registry over the Ethereum network to increase its scalability.
+Atualmente, construímos esse registro em uma rede de teste local na qual hospedamos nossos laptops pessoais. Portanto, existem algumas limitações em relação à escalabilidade, como o número máximo de bancos que podem ser registrados, que atualmente é limitado a 10 e assim por diante. No futuro, planejamos implantar esse registro na rede Ethereum para aumentar sua escalabilidade.
 
-# Requirements
+# Requerimentos
 1. Nodejs - v10.15.3
 2. npm - v6.9.0
 3. solc - v0.4.26 `npm install solc@0.4.26`
