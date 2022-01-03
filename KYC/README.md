@@ -2,7 +2,7 @@
 
 A blockchain based KYC registry prototype
 
-## Descrição do projeto
+### Descrição do projeto
 
 Os cheques "Conheça seu cliente" Know your customer (KYC) são atualmente um processo extremamente demorado e caro. Negócios dos mais váriados tipos têm de gastar milhões de dólares todos os anos para cumprir os regulamentos KYC ou correm o risco de serem multados. Através de uma rede de blockchain podemos simplificar o processo de KYC reduzindo o custo, aumentando a seguramça e escalabilidade do processo.
 
@@ -10,7 +10,7 @@ O prototipo KYC-chain elimina as verificações KYC redundantes executadas desne
 
 Atualmente o projeto foi testado em uma rede de teste local na qual foi hospedado em alguns laptops pessoais. Portanto, existem algumas limitações em relação à escalabilidade, como o número máximo de bancos que podem ser registrados, que atualmente é limitado a 10. No futuro, planejamos implantar esse registro na rede Ethereum para aumentar sua escalabilidade.
 
-## Descrição do projeto
+### Descrição do projeto
 
 Os cheques Know your customer (KYC) são atualmente um processo extremamente demorado e caro. As empresas têm de gastar milhões de dólares todos os anos para cumprir os regulamentos KYC ou corre o risco de ser multado pesadamente. Através da rede KYC pretendemos simplificar em grande medida este processo.
 
