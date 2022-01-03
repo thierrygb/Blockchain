@@ -21,7 +21,7 @@ Decentralized Finance (Defi). BSC uses a token protocol developed by the
 Binance Team called BEP-20.
 
     Total Supply: 1,000,000,000   
-    Dev wallet: 0xf9aa1ea591fbf2df3d2295d60d9bbf8f5cedd045
+    Dev wallet: 
     10% of fees burned with each transaction.  
     
 Community
