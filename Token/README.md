@@ -24,11 +24,11 @@ Binance Team called BEP-20.
     Dev wallet: 
     10% of fees burned with each transaction.  
     
-Community
+#### Community
 
 Our main objective is to build a strong community, where people from all over the world can exchange experiences and debate issues of global interest. If a community is well maintained and constantly expanded, this can result ina trusting relationship between the target group and the Sprawl, which can lay the foundation  for  loyal  and  stable  repeat  users.   
 
-Warning
+#### Warning
 
 The Artemis token is a utility token from an experimental platform,
 not an investment. Before purchasing a token, you should ensure that the complexity and risks inherent in trading cryptocurrencies are adequate for
