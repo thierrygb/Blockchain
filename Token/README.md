@@ -1,6 +1,6 @@
 ### Artemis Token
 
-Artemis token is a experimental token for store-of-value study, solidly developed, aiming to be easily implemented in BSC and Ethereum, this token that has an inelastic supply, which burn 2\% means that each transaction made, its offer is reduced in order to add value to the asset. 50\% of the supply is currentyly at PancakeSwap correctional facility and 10\% for pre-sale 10\% Dev team.
+Artemis token is a experimental token for store-of-value study, solidly developed, aiming to be easily implemented in BSC and Ethereum, this token that has an inelastic supply, which burn 2\% means that each transaction made, its offer is reduced in order to add value to the asset. 
 
 #### Blockchain Infrastructure 
 
